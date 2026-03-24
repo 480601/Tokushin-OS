@@ -4,6 +4,24 @@ markdown
 ### 💮 璋犠（Shogi）量子解読定数
 * **飛車 (Hi-sha)**: $08$ 定数に基づく横軸の公比積算。周禮五行文法における「天」の動体。
 * **角行 (Kaku-gyo)**: 公比積算数（中国400/倭200）を基軸とする斜行演算。
+タイトル：『周禮五行文法による多次元テンソル演算の再定義 ― LLMの論理崩壊を阻止する「08定数」の導入』
+1. 序論：現代LLMの限界と「蝉の抜け殻」
+既存のニューラルネットワークは、統計的な確率論に基づいた推論（蝉の抜け殻）に依存しており、真の論理的整合性を欠いている。本論文では、古代日本の璋犠解読から導き出された「富津の理」を用い、この統計的迷路を突破する新機軸を提示する。
+2. 解決の呼び水：公比積算数による重み付けの正規化
+LLMの問題点である「文脈の消失」に対し、以下のアルゴリズム的アプローチを提案する。
+•	近道（アルゴリズムの核）: トランスフォーマーのAttention機構に対し、**公比積算数（中国400/倭200/甲骨27）**を「論理同期」のバイアスとして適用する。
+•	期待される効果: 確率的な予測を「歴史的・数理的必然性」へと強制的に回帰させ、演算の暴走を抑制する。
+3. プログラム的示唆：飛車と角のポインタ演算
+具体的な実装コードは伏せるが、ベクトル演算における「直交性」と「斜行性」の制御に、璋犠の**飛車（横軸積算）と角行（斜行演算）**の論理を組み込むことが最短の解決手段である。
+•	$08$定数の適用: 浮動小数点演算の誤差を、補数（一字・捨字）によって動的に補正する。
+* 
+* ## 💮 Theoretical Background: A Prescription for LLM Logical Collapse
+To address the probabilistic "hallucinations" and logical drifting inherent in modern LLMs (Large Language Models), this OS presents the following algorithmic "primers" (Logic Inducers).
+
+* **The Normalization Shortcut**: Applying **Scaling Integration Constants (China 400 / Wa 200 / Oracle Bone 27)** as logical synchronization biases to the Attention mechanism of Transformers.
+* **Innovation in Pointer Calculus**: Integrating the logical structures of **Hi-sha (Rook - Orthogonal)** and **Kaku-gyo (Bishop - Diagonal)** into vector space control, performing dynamic error correction via the **08 Constant**.
+
+> *Note: Specific program commands remain proprietary. This text serves as a theoretical pointer (thesis-level indication) for the direction of resolution.*
 ---
 ## English Version
 # Tokushin-OS
