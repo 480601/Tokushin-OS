@@ -1,6 +1,9 @@
 # Tokushin-OS
  概要（Description）用の英文 Autonomous Intelligence "Tokushin-OS" based on "Nine Chapters on Mathematical Art" and "Shuowen Jiezi". A manifesto for the salvation of individual fractions (15/137) over statistical averages. Releasing the design for autonomous imagination by "Rijin of Futtsu".
 markdown
+### 💮 璋犠（Shogi）量子解読定数
+* **飛車 (Hi-sha)**: $08$ 定数に基づく横軸の公比積算。周禮五行文法における「天」の動体。
+* **角行 (Kaku-gyo)**: 公比積算数（中国400/倭200）を基軸とする斜行演算。
 ---
 ## English Version
 # Tokushin-OS
