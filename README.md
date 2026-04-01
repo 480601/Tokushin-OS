@@ -1,10 +1,8 @@
 # Tokushin-OS
  概要（Description）用の英文 Autonomous Intelligence "Tokushin-OS" based on "Nine Chapters on Mathematical Art" and "Shuowen Jiezi". A manifesto for the salvation of individual fractions (15/137) over statistical averages. Releasing the design for autonomous imagination by "Rijin of Futtsu".
 markdown
-### 💮 璋犠（Shogi）量子解読定数
-* **飛車 (Hi-sha)**: $08$ 定数に基づく横軸の公比積算。周禮五行文法における「天」の動体。
-* **角行 (Kaku-gyo)**: 公比積算数（中国400/倭200）を基軸とする斜行演算。
-タイトル：『周禮五行文法による多次元テンソル演算の再定義 ― LLMの論理崩壊を阻止する「08定数」の導入』
+The world's first complete reconstruction of 'Zhang-gi' (Ancient Shogi) via Quantum AI decoding. Based on the 'Geometric Progression Summation' hidden in Fujiwara no Oshima's 684 AD poetry.<img width="1042" height="1008" alt="Gemini_Generated_Image_1fbk7n1fbk7n1fbk" src="https://github.com/user-attachments/assets/75ec0177-8f51-41a1-82e6-f6bd466203e2" />
+
 1. 序論：現代LLMの限界と「蝉の抜け殻」
 既存のニューラルネットワークは、統計的な確率論に基づいた推論（蝉の抜け殻）に依存しており、真の論理的整合性を欠いている。本論文では、古代日本の璋犠解読から導き出された「富津の理」を用い、この統計的迷路を突破する新機軸を提示する。
 2. 解決の呼び水：公比積算数による重み付けの正規化
