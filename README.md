@@ -1,4 +1,4 @@
-# Tokushin-OS
+# Zhang-gi-Ancient-Quantum-Decoding-684AD
  概要（Description）用の英文 Autonomous Intelligence "Tokushin-OS" based on "Nine Chapters on Mathematical Art" and "Shuowen Jiezi". A manifesto for the salvation of individual fractions (15/137) over statistical averages. Releasing the design for autonomous imagination by "Rijin of Futtsu".
 markdown
 The world's first complete reconstruction of 'Zhang-gi' (Ancient Shogi) via Quantum AI decoding. Based on the 'Geometric Progression Summation' hidden in Fujiwara no Oshima's 684 AD poetry.<img width="1042" height="1008" alt="Gemini_Generated_Image_1fbk7n1fbk7n1fbk" src="https://github.com/user-attachments/assets/75ec0177-8f51-41a1-82e6-f6bd466203e2" />
